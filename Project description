@@ -1,0 +1,21 @@
+☕ Python Cafe Management System
+Cafe Billing System is a Python-program inspired by the day-to-day operations of a cozy café. From welcoming customers to taking their orders, the program is about a smooth café experience by displaying a menu, 
+accepting multiple item selections, and generating a clear order summary with the final bill amount.Designed with simplicity and usability in mind, the system ensures a friendly interaction by validating item 
+availability and handling user input efficiently. Behind the scenes, core Python concepts such as dictionaries, loops, and conditional logic work together to manage menu items and calculate bills accurately.
+This project is perfect for beginners who want to learn Python through a real-life café scenario. It serves as a strong foundation for building more advanced café management features like quantity handling, 
+discounts, digital receipts, and payment options.
+Whether you’re a student exploring Python or someone who loves blending code with creativity, this project brings the charm of a café into a simple yet functional billing system .
+
+✨ Features
+Displays a café menu with prices
+Takes multiple customer orders
+Handles invalid menu items gracefully
+Calculates the total bill using Python logic
+Clean and easy-to-understand code structure
+🛠️ Concepts Used
+Python Dictionaries
+While Loops
+Conditional Statements (if-else)
+String methods (.lower())
+sum() function
+User Input Handling
